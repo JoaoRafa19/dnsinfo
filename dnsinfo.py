@@ -1,9 +1,6 @@
 import argparse
-
 from fileutils import *
-
 from os import system
-
 from os import sys
 
 
